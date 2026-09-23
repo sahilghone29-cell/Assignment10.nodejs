@@ -253,10 +253,11 @@ Firestore Database
 
 ## Screenshots Required for Submission
 
-<img width="815" height="848" alt="Screenshot 2026-09-23 at 2 09 33 PM" src="https://github.com/user-attachments/assets/8b29efed-359f-4c4d-a73e-fc5b75d006db" />
-<img width="815" height="848" alt="Screenshot 2026-09-23 at 2 08 53 PM" src="https://github.com/user-attachments/assets/affcdd53-6d0e-45c3-aee6-49bbde722aa8" />
-<img width="1470" height="834" alt="Screenshot 2026-09-23 at 2 08 31 PM" src="https://github.com/user-attachments/assets/f9322b5e-e333-435c-9fd8-32acc55cf562" />
-<img width="825" height="152" alt="Screenshot 2026-09-23 at 1 59 07 PM" src="https://github.com/user-attachments/assets/c4eacf4d-b3a7-4223-a879-f735605ab859" />
+<img width="815" height="848" alt="Screenshot 2026-09-23 at 2 09 33 PM" src="https://github.com/user-attachments/assets/73b1edeb-a32d-48a6-b075-e007e4295133" />
+<img width="815" height="848" alt="Screenshot 2026-09-23 at 2 08 53 PM" src="https://github.com/user-attachments/assets/ab6988e8-97de-4bea-8de2-76be39ddde66" />
+<img width="1470" height="834" alt="Screenshot 2026-09-23 at 2 08 31 PM" src="https://github.com/user-attachments/assets/24c9696b-a855-4232-86a1-6a4f452fd794" />
+<img width="825" height="152" alt="Screenshot 2026-09-23 at 1 59 07 PM" src="https://github.com/user-attachments/assets/15802bd7-38f4-4daa-9a0a-5d8b9aa86ae6" />
+
 
 
 ## Conclusion
