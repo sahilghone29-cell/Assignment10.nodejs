@@ -253,12 +253,11 @@ Firestore Database
 
 ## Screenshots Required for Submission
 
-* [x] **Screenshot 1 — Firebase Connection:** Terminal displaying `Server running on http://localhost:5000` and `Firebase Firestore connected successfully`.
-* [x] **Screenshot 2 — Successful POST Request:** Postman showing `POST http://localhost:5000/api/users` with valid JSON body, status `201 Created`, and returning `userId`.
-* [x] **Screenshot 3 — Firestore Storage:** Firebase Console showing the `users` collection containing the inserted document with fields `name`, `email`, `age`, and `course`.
-* [x] **Screenshot 4 — Validation Error:** Postman showing an invalid request body with status `400 Bad Request` and error response payload.
+<img width="815" height="848" alt="Screenshot 2026-09-23 at 2 09 33 PM" src="https://github.com/user-attachments/assets/8b29efed-359f-4c4d-a73e-fc5b75d006db" />
+<img width="815" height="848" alt="Screenshot 2026-09-23 at 2 08 53 PM" src="https://github.com/user-attachments/assets/affcdd53-6d0e-45c3-aee6-49bbde722aa8" />
+<img width="1470" height="834" alt="Screenshot 2026-09-23 at 2 08 31 PM" src="https://github.com/user-attachments/assets/f9322b5e-e333-435c-9fd8-32acc55cf562" />
+<img width="825" height="152" alt="Screenshot 2026-09-23 at 1 59 07 PM" src="https://github.com/user-attachments/assets/c4eacf4d-b3a7-4223-a879-f735605ab859" />
 
----
 
 ## Conclusion
 
