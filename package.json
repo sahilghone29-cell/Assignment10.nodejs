@@ -1,0 +1,26 @@
+{
+  "name": "assignment10",
+  "version": "1.0.0",
+  "description": "Store Data in Firebase Firestore Using Express.js - Sahil Ghone (150096725002)",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": [
+    "express",
+    "firebase",
+    "firestore",
+    "joi",
+    "validation",
+    "nodejs"
+  ],
+  "author": "Sahil Ghone",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "firebase-admin": "^12.0.0",
+    "joi": "^17.13.0"
+  }
+}
